@@ -102,7 +102,7 @@ O sistema utiliza as seguintes tabelas principais:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/waterwise-api.git
+git clone https://github.com/WaterWise-GlobalSolution/waterwise-api-dotnet.git
 
 # Navegue para o diretório src
 cd waterwise-api/src
