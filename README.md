@@ -366,12 +366,6 @@ Body: (vazio)
   ]
 }
 ```
-
-**Print da Requisição:**
-```
-[Espaço reservado para print da atualização do produtor]
-```
-
 ---
 
 #### 🔍 3.4. GET: Recuperar Produtor por ID
@@ -412,12 +406,6 @@ Body: (vazio)
   ]
 }
 ```
-
-**Print da Requisição:**
-```
-[Espaço reservado para print da recuperação do produtor por ID]
-```
-
 ---
 
 #### 🏡 3.5. GET: Listar Todas as Propriedades
@@ -540,12 +528,6 @@ GET /api/v1/propriedades?pageSize=50
 - **Experiência do Usuário**: Carregamento mais rápido em interfaces
 - **Flexibilidade**: Permite ajustar quantidade conforme necessidade
 - **Machine Learning**: Inclui predições de risco de enchente para cada propriedade
-
-**Print da Requisição:**
-```
-[Espaço reservado para print da listagem de propriedades com paginação]
-```
-
 ---
 
 ### 4. Verificação de Status
